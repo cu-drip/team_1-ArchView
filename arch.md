@@ -1,5 +1,5 @@
-![diagram.png](diagram.png)
 \```mermaid
+
   flowchart TD
     %% Верхний уровень: CompetitionEngine отдельно
     subgraph L1 [" "]
